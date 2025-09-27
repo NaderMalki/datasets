@@ -1,4 +1,5 @@
 <p align="center">
+  I request that GitHup Company, in accordance with the WIPO Treaty and the DMCA Law, block the OCILLA user account based on registration PCT/IR2025/050026 under the title of Artificial Intelligence Neural Network with 3D and Two-Hemispheric Processing and the announcement of the complaint by me, the owner and inventor, to block the said account in order to prevent further damage to my rights. Thank you, Nader Maleki.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://huggingface.co/datasets/huggingface/documentation-images/raw/main/datasets-logo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://huggingface.co/datasets/huggingface/documentation-images/raw/main/datasets-logo-light.svg">
